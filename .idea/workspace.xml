@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4b0cb5-afe5-42f1-80c7-8acc61b3852c" name="Default Changelist" comment="hola buenas" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X3tWSB4B6plR6PGYDDHF6K1yfF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="empresa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_funcionescli.Test.test_abrirbbdd" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="empresa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_funcionescli.Test.test_abrirbbdd&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_funcionescli.Test.test_apelnomfac" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="empresa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_funcionescli.Test.test_apelnomfac&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_funcionescli.Test.test_valido_dni" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="empresa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_funcionescli.Test.test_valido_dni&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_funcionescli.Test.test_versilibre" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="empresa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_funcionescli.Test.test_versilibre&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests for test_funcionescli.Test.test_versilibre" />
+        <item itemvalue="Python tests.Unittests for test_funcionescli.Test.test_valido_dni" />
+        <item itemvalue="Python tests.Unittests for test_funcionescli.Test.test_abrirbbdd" />
+        <item itemvalue="Python tests.Unittests for test_funcionescli.Test.test_apelnomfac" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4b0cb5-afe5-42f1-80c7-8acc61b3852c" name="Default Changelist" comment="" />
+      <created>1580286636421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580286636421</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hola buenas">
+      <created>1583481936175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583481936175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hola buenas">
+      <created>1583482533679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583482533679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hola buenas">
+      <created>1583482658036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583482658036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hola buenas">
+      <created>1583482783199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583482783199</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hola buenas">
+      <created>1583483943088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583483943088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hola buenas" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola buenas" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="403" width="800" height="677" key="#TODO" timestamp="1583484519841">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="595" y="403" width="800" height="677" key="#TODO/67.27.1853.1053@67.27.1853.1053" timestamp="1583484519841" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583481738153">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583481738153" />
+    <state x="667" y="156" width="642" height="792" key="#main" timestamp="1580821843689">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="667" y="156" width="642" height="792" key="#main/67.27.1853.1053@67.27.1853.1053" timestamp="1580821843689" />
+    <state x="597" y="98" width="782" height="908" key="CommitChangelistDialog2" timestamp="1583484594616">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="597" y="98" width="782" height="908" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1583484594616" />
+    <state x="765" y="296" width="447" height="513" key="FileChooserDialogImpl" timestamp="1583841253679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="765" y="296" width="447" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583841253679" />
+    <state x="781" y="469" key="Github.CreateGistDialog" timestamp="1583481264816">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="781" y="469" key="Github.CreateGistDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583481264816" />
+    <state x="626" y="447" width="515" height="336" key="Github.ShareDialog" timestamp="1584087330134">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="626" y="447" width="515" height="336" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584087330134" />
+    <state x="692" y="210" width="593" height="685" key="Github.UntrackedFilesDialog" timestamp="1584087338480">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="692" y="210" width="593" height="685" key="Github.UntrackedFilesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584087338480" />
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1583917731054">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583917731054" />
+    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1583917731053">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583917731053" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1583917731053">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583917731053" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1583917731053">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583917731053" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1583916136365">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583916136365" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1583916136364">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583916136364" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1583916136364">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583916136364" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1583916136365">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583916136365" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583483918449">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583483918449" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583484504991">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583484504991" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580821799681">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580821799681" />
+    <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583482678890">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1583482678890" />
+    <state x="562" y="71" width="863" height="963" key="find.popup" timestamp="1583309609740">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="562" y="71" width="863" height="963" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583309609740" />
+    <state x="761" y="419" width="455" height="267" key="git4idea.rebase.GitRebaseDialog" timestamp="1583481995483">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="419" width="455" height="267" key="git4idea.rebase.GitRebaseDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583481995483" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1582273163429">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582273163429" />
+  </component>
+</project>
